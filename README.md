@@ -57,7 +57,7 @@ Follow these steps to run the application locally.
 
 ```bash
 git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+cd your-RAG-QA
 ```
 
 ### 3. 🧪Create a Virtual Environment (Recommended)
